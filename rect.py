@@ -1,4 +1,3 @@
-#!/usr/bin/python3
 
 width = int(input("Enter rectange width: "))
 length = int(input("Enter rectange length: "))

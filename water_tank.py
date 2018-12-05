@@ -1,5 +1,3 @@
-#!/usr/bin/python3
-
 # This program is used to calculate volume and water flow of a Water Tank
 
 # Input:
